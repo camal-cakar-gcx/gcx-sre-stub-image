@@ -1,4 +1,4 @@
-# SRE GCX STUB Image
+# GCX SRE STUB IMAGE
 
 ## Purpose
 This is a simple stub image which can be used to verify a working infrastructure. In contains following feature:
